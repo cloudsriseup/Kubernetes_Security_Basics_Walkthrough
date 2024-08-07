@@ -49,42 +49,43 @@ Which is why it is worthwhile to view my lecture on the project that became Kube
 
 
 ## Hand Holding Kubernetes Hardening
-Interesting manual techniques to harden kubernetes core
+[Interesting manual techniques to harden kubernetes core](1_HandHolding_HardenedK8s/README.md)
 
 ## Simpler Hardening
-Semi-automated techniques to harden kubernetes core
+[Semi-automated techniques to harden kubernetes core](1_SimplerInstall_HardenedK8s/README.md)
 
 ## TLS Certification Rotation
-X.509 builds the internal communication assurance and integrity checks between different Kubernete's services
+[X.509 builds the internal communication assurance and integrity checks between different Kubernete's services](2_X509_Rotation/README.md)
+
 ## Linux Kernel Filtering
-SECCOMP goes a long way but is difficult to master
+[SECCOMP goes a long way but is difficult to master](3_LinuxKernel_Filtering/README.md)
 
 ## Pod Security
-Pod Security is the new hotness
+[Pod Security is the new hotness](4_Pod_Security/README.md)
 
 ## NetSec
-Service Mesh, DNS, autodiscovery - oh my!
+[Service Mesh, DNS, autodiscovery - oh my!](5_Simple_Network_Security/README.md)
 
 ## Cluster
-The root of all governance
+[The root of all governance](6_Cluster_Security/README.md)
 
 ## Admission Controller
-The Gatekeeper of Xul
+[The Gatekeeper of Xul](7_Admission_Controller/README.md)
 
 ## Workload Integrity
-I think, therefore I am because my identity is mathematicaly proven. 
+[I think, therefore I am because my identity is mathematicaly proven](8_WorkloadIntegrity/README.md)
 
 ## Backups
-You are only as available as your last successful restoration
+[You are only as available as your last successful restoration](9_Backups/README.md)
 
 ## Secrets
-Touching other people's underwear
+[Touching other people's underwear](10_SecretsAreSecret/README.md)
 
 ## Isolated Kernel
-I heard you like kernels so I put a kernel in your kernel
+[I heard you like kernels so I put a kernel in your kernel](11_GVisorKernel/README.md)
 
 ## Image Pulling
-Or why DockerHub had to make money
+[Or why DockerHub had to make money](12_PullingImages/README.md)
 
 
 
